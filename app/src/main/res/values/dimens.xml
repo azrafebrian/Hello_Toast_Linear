@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="layout_padding">24dp</dimen>
+    <dimen name="font_1">20sp</dimen>
+</resources>
